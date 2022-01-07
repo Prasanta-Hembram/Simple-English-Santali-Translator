@@ -1,4 +1,3 @@
-
 	var text;
 	
 	function startText() {
