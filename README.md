@@ -1,2 +1,2 @@
-# Simple-English-Santali-Translator
-A simple English-Santali Translator
+# Simple-English2Santali-Translator
+A simple English2Santali Translator
