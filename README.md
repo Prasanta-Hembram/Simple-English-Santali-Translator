@@ -9,6 +9,9 @@ English2Santali Translator: It is an experimental project to learn HTML and Java
 - Mixture of catiptal and small letter words may not transcribe well, unless that form is already present. If so then create a phrase and add it to the JS section.
 - Plural form is not yet supported.
 
+## Contribute
+- You can make changes to this project by keeping everything simple and add more words/phrase/sentence to dict.js file.
+
 ## Comment
 - Don't underestimate the power of this Simple Machine Translator. I think it is one of the simplest machine translation project, where anyone can create and make changes to whatever result they want with basic programming knowledge/if not they can learn by seeing the sequence which is very easy to understand. This project will boost the interest towards machine translation for those people/communities where online resources may be a limiting factor and lack of programmig knowledge.
 
