@@ -1348,6 +1348,7 @@ text = text.replace(/Tab/g, "ᱴᱮᱵ");
 text = text.replace(/we/g, "ᱟᱞᱮ");
 text = text.replace(/you/g, "ᱟᱢ");
 text = text.replace(/and/g, "ᱟᱨ");
+text = text.replace(/dog/g, "ᱥᱮᱛᱟ");
 text = text.replace(/Jju/g, "ᱡᱩ");
 text = text.replace(/in/g, "ᱨᱮ");
 text = text.replace(/what/g, "ᱪᱮᱫ");
